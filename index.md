@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](C:\Users\root172\Desktop)
+[Link](url) and ![Image](https://github.com/cadin25/publications/blob/master/suzalogo.jpg?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
